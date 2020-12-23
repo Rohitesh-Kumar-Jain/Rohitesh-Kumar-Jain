@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h3 align="center">I'm Rohitesh Kumar Jain CS undergrad from New Delhi</h3>
+<h3 align="center">I'm Rohitesh Kumar Jain CS undergrad from Noida, India</h3>
 
 <!--
 **Rohitesh-Kumar-Jain/Rohitesh-Kumar-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
