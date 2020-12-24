@@ -3,10 +3,10 @@
 
 ## My GitHub Stats &#x1f4c8;
 
-<a href="https://github.com/kelvinninja1/kelvinninja1">
+<a href="https://github.com/Rohitesh-Kumar-Jain/Rohitesh-Kumar-Jain">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ROHITESH-KUMAR-JAIN&hide=html&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/kelvinninja1/kelvinninja1">
+<a href="https://github.com/Rohitesh-Kumar-Jain/Rohitesh-Kumar-Jain">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITESH-KUMAR-JAIN&langs_count=6&layout=compact&color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
