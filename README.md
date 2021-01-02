@@ -10,12 +10,49 @@
 [<img alt="Gmail" src="https://www.flaticon.com/svg/static/icons/svg/888/888853.svg" width="30px">](mailto:codepool20@gmail.com)
 <br>
 
-<a href="https://github.com/Rohitesh-Kumar-Jain/Rohitesh-Kumar-Jain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ROHITESH-KUMAR-JAIN&hide=html&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Rohitesh-Kumar-Jain/Rohitesh-Kumar-Jain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITESH-KUMAR-JAIN&langs_count=6&layout=compact&color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
+<p align="center">
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=Rohitesh-Kumar-Jain&show_icons=true&hide_border=true&theme=tokyonight"
+    />
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitesh-Kumar-Jain&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
+    />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **Rohitesh-Kumar-Jain/Rohitesh-Kumar-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
