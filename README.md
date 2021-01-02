@@ -6,10 +6,8 @@
 	<a href="https://github.com/Rohitesh-Kumar-Jain?tab=repositories"><img src="https://badges.pufler.dev/repos/ROHITESH-KUMAR-JAIN" alt="ROHITESH-KUMAR-JAIN" /> </a>
 </p>
 
-### Connect with me:
-
-[<img align="left" alt="LinkedIn" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/rohitesh-jain-490b2b188/)
-[<img alt="Gmail" src="https://www.flaticon.com/svg/static/icons/svg/888/888853.svg" width="30px">](mailto:codepool20@gmail.com)
+[<img align="center" alt="LinkedIn" width="50px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/rohitesh-jain-490b2b188/)
+[<img alt="Gmail" src="https://www.flaticon.com/svg/static/icons/svg/888/888853.svg" width="50px">](mailto:codepool20@gmail.com)
 <br>
 
 <a href="https://github.com/Rohitesh-Kumar-Jain/Rohitesh-Kumar-Jain">
