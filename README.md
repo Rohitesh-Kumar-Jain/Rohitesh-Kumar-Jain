@@ -11,9 +11,13 @@
 [<img align="left" alt="LinkedIn" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/rohitesh-jain-490b2b188/)
 [<img alt="Gmail" src="https://www.flaticon.com/svg/static/icons/svg/888/888853.svg" width="30px">](mailto:codepool20@gmail.com)
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ROHITESH-KUMAR-JAIN&show_icons=true" alt="ROHITESH-KUMAR-JAIN" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact" alt="ROHITESH-KUMAR-JAIN" /> </p>
 
+<a href="https://github.com/Rohitesh-Kumar-Jain/Rohitesh-Kumar-Jain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ROHITESH-KUMAR-JAIN&hide=html&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Rohitesh-Kumar-Jain/Rohitesh-Kumar-Jain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITESH-KUMAR-JAIN&langs_count=6&layout=compact&color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <!--
 **Rohitesh-Kumar-Jain/Rohitesh-Kumar-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,14 +39,11 @@
 </p>
 
 
----github stats-------------
-<a href="https://github.com/Rohitesh-Kumar-Jain/Rohitesh-Kumar-Jain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ROHITESH-KUMAR-JAIN&hide=html&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Rohitesh-Kumar-Jain/Rohitesh-Kumar-Jain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITESH-KUMAR-JAIN&langs_count=6&layout=compact&color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
----------------------------
+---github stats in white -------------
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ROHITESH-KUMAR-JAIN&show_icons=true" alt="ROHITESH-KUMAR-JAIN" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITESH-KUMAR-JAIN&layout=compact" alt="ROHITESH-KUMAR-JAIN" /> </p>
+
+--------------------------------------
 
 Here are some ideas to get you started:
 
