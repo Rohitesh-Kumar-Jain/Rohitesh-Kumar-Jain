@@ -11,17 +11,6 @@
 <br>
 
 
-<p align="center">
-    <img
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=Rohitesh-Kumar-Jain&show_icons=true&hide_border=true&theme=tokyonight"
-    />
-    <img
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitesh-Kumar-Jain&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
-    />
-</p>
-
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank">
@@ -124,6 +113,18 @@
         />
     </a>
 </p>
+
+<p align="center">
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=Rohitesh-Kumar-Jain&show_icons=true&hide_border=true&theme=tokyonight"
+    />
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitesh-Kumar-Jain&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
+    />
+</p>
+
 
 
 
