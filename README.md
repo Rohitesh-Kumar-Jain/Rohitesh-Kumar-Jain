@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h3 align="center">I'm Rohitesh Kumar Jain CS undergrad from Noida, India</h3>
 
-<p align="left"> 
+<p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=ROHITESH-KUMAR-JAIN" alt="Rohitesh-Kumar-Jain" /> 
 	<a href="#"><img src="https://badges.pufler.dev/repos/ROHITESH-KUMAR-JAIN" alt="ROHITESH-KUMAR-JAIN" /> </a>
 </p>
