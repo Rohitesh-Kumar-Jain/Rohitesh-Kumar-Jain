@@ -3,7 +3,7 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=ROHITESH-KUMAR-JAIN" alt="Rohitesh-Kumar-Jain" /> 
-	<a href="#"><img src="https://badges.pufler.dev/repos/ROHITESH-KUMAR-JAIN" alt="ROHITESH-KUMAR-JAIN" /> </a>
+	<a href="https://github.com/Rohitesh-Kumar-Jain?tab=repositories"><img src="https://badges.pufler.dev/repos/ROHITESH-KUMAR-JAIN" alt="ROHITESH-KUMAR-JAIN" /> </a>
 </p>
 
 ### Connect with me:
