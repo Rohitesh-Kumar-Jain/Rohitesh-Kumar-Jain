@@ -2,7 +2,7 @@
 <h3 align="center">I'm Rohitesh Kumar Jain CS undergrad from Noida, India</h3>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=ROHITESH-KUMAR-JAIN" alt="Rohitesh-Kumar-Jain" /> 
+	<a href="https://github.com/Rohitesh-Kumar-Jain"><img src="https://komarev.com/ghpvc/?username=ROHITESH-KUMAR-JAIN" alt="Rohitesh-Kumar-Jain"/></a>
 	<a href="https://github.com/Rohitesh-Kumar-Jain?tab=repositories"><img src="https://badges.pufler.dev/repos/ROHITESH-KUMAR-JAIN" alt="ROHITESH-KUMAR-JAIN" /> </a>
 </p>
 
