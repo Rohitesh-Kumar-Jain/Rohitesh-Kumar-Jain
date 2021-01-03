@@ -112,10 +112,10 @@
             height="40"
         />
     </a>
-    <a href="https://flask.palletsprojects.com" target="_blank">
+    <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/" target="_blank">
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="flask"
+            alt="Bootstrap"
             width="40"
             height="40"
         />
