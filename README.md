@@ -112,6 +112,14 @@
             height="40"
         />
     </a>
+    <a href="https://flask.palletsprojects.com" target="_blank">
+        <img
+            src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="flask"
+            width="40"
+            height="40"
+        />
+    </a>	
 </p>
 
 <p align="center">
