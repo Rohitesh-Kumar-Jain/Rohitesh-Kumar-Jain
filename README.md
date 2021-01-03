@@ -98,7 +98,7 @@
     </a>
     <a href="https://www.python.org" target="_blank">
         <img
-            src=""
+            src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
             alt="python"
             width="40"
             height="40"
@@ -106,7 +106,7 @@
     </a>
     <a href="https://reactjs.org/" target="_blank">
         <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+            src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
             alt="react"
             width="40"
             height="40"
@@ -130,8 +130,32 @@
     </a>
     <a href="" target="_blank">
         <img
-            src=""
-            alt=""
+            src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"
+            alt="Ubuntu"
+            width="40"
+            height="40"
+        />
+    </a>
+	<a href="" target="_blank">
+        <img
+            src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
+            alt="Linux"
+            width="40"
+            height="40"
+        />
+    </a>
+	<a href="" target="_blank">
+        <img
+            src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"
+            alt="Github"
+            width="40"
+            height="40"
+        />
+    </a>
+	<a href="" target="_blank">
+        <img
+            src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg"
+            alt="GIMP"
             width="40"
             height="40"
         />
