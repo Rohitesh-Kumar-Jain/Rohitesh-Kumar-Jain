@@ -24,7 +24,7 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank">
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
-            alt=""
+            alt="c++"
             width="40"
             height="40"
         />
@@ -74,7 +74,7 @@
         target="_blank"
     >
         <img
-            src="https://github.com/devicons/devicon/tree/master/icons/javascript"
+            src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
             alt="javascript"
             width="40"
             height="40"
