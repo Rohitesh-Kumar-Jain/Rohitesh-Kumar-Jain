@@ -128,7 +128,7 @@
             height="40"
         />
     </a>
-    <a href="" target="_blank">
+    <a href="https://ubuntu.com/" target="_blank">
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"
             alt="Ubuntu"
@@ -136,7 +136,7 @@
             height="40"
         />
     </a>
-	<a href="" target="_blank">
+	<a href="https://www.linux.org/" target="_blank">
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
             alt="Linux"
@@ -144,7 +144,7 @@
             height="40"
         />
     </a>
-	<a href="" target="_blank">
+	<a href="https://github.com/" target="_blank">
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"
             alt="Github"
@@ -152,7 +152,7 @@
             height="40"
         />
     </a>
-	<a href="" target="_blank">
+	<a href="https://www.gimp.org/" target="_blank">
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg"
             alt="GIMP"
@@ -160,7 +160,7 @@
             height="40"
         />
     </a>
-	<a href="" target="_blank">
+	<a href="https://jinja.palletsprojects.com/en/2.11.x/" target="_blank">
         <img
             src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg"
             alt="JINJA2"
