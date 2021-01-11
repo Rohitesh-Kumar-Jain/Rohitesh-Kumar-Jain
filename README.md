@@ -91,6 +91,22 @@
             height="40"
         />
     </a>
+    <a href="https://www.postgresql.org" target="_blank">
+        <img
+            src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"
+            alt="PostgreSQL"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://www.sqlite.org/index.html" target="_blank">
+        <img
+            src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
+            alt="SQLite3"
+            width="40"
+            height="40"
+        />
+    </a>
     <a href="https://nodejs.org" target="_blank">
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
