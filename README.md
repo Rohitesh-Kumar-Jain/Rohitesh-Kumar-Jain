@@ -14,7 +14,7 @@
 <br>
 
 
-<h3 align="center">Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h3>
+<h3 align="center">Languages and Tools </h3>
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank">
         <img
