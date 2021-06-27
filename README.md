@@ -210,7 +210,7 @@
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img
         height="180em"
 	 width="400em"
@@ -222,8 +222,10 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITESH-KUMAR-JAIN&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
     />
 </p>
+ -->
 
-
+|<img src="https://github-readme-stats.vercel.app/api?username=ROHITESH-KUMAR-JAIN&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHITESH-KUMAR-JAIN&theme=dark&hide_border=true"/>|
+|---|---|
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ROHITESH-KUMAR-JAIN&theme=github" />
 
