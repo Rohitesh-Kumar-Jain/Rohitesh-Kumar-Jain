@@ -7,6 +7,7 @@
 	<img src="https://img.shields.io/github/stars/ROHITESH-KUMAR-JAIN?label=Stars" alt="Total Stars">
 </p>
 
+
 <!--
 [<img align="left" alt="LinkedIn" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/rohitesh-jain-490b2b188/)
 [<img alt="Gmail" src="https://www.flaticon.com/svg/static/icons/svg/888/888853.svg" width="30px">](mailto:codepool20@gmail.com)
@@ -224,7 +225,7 @@
 
 
 
-
+<img src="https://activity-graph.herokuapp.com/graph?username=ROHITESH-KUMAR-JAIN&theme=github" />
 
 
 
