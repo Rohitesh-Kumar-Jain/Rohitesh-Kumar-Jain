@@ -221,5 +221,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/ROHITESH-KUMAR-JAIN.svg?style=social&label=Follow)](https://github.com/ROHITESH-KUMAR-JAIN?tab=followers)
 
 
-- ⚡ Fun fact: One thing I cannot live without is water and food, rest somehow I can manage
+- ⚡ Fun fact: Two thing I cannot live without is water and food, rest somehow I can manage
 - ⚡ Another fun fact : One very memorable summer was Google Summer of Code :)
