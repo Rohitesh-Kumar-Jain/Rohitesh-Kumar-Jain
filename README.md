@@ -211,7 +211,8 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=ROHITESH-KUMAR-JAIN&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHITESH-KUMAR-JAIN&theme=dark&hide_border=true"/>|
 |---|---|
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ROHITESH-KUMAR-JAIN&theme=github" />
+<!-- contribution graph -->
+<!--img src="https://activity-graph.herokuapp.com/graph?username=ROHITESH-KUMAR-JAIN&theme=github" /-->
 
 
 📫 Connect with me on <a href="https://www.linkedin.com/in/rohitesh-jain-490b2b188//">Linkedin</a>
