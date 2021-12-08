@@ -215,7 +215,8 @@
 <!--img src="https://activity-graph.herokuapp.com/graph?username=ROHITESH-KUMAR-JAIN&theme=github" /-->
 
 
-📫 Connect with me on <a href="https://www.linkedin.com/in/rohitesh-jain-490b2b188//">Linkedin</a>
+📫 Connect with me on <a href="https://www.linkedin.com/in/rohitesh-jain-490b2b188//">Linkedin</a><br>
+<a href="https://secure.plum.io/en/p/qlqimBjXLGK-YWdbX-XG0A">Plum Profile</a> 😅
 
 
 [![GitHub followers](https://img.shields.io/github/followers/ROHITESH-KUMAR-JAIN.svg?style=social&label=Follow)](https://github.com/ROHITESH-KUMAR-JAIN?tab=followers)
