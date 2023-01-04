@@ -15,7 +15,7 @@
 <br>
 
 
-<h3 align="center">Languages and Tools </h3>
+<!-- <h3 align="center">Languages and Tools </h3>
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank">
         <img
@@ -206,7 +206,7 @@
     </a>
 	
 
-</p>
+</p> -->
 
 |<img src="https://github-readme-stats.vercel.app/api?username=ROHITESH-KUMAR-JAIN&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHITESH-KUMAR-JAIN&theme=dark&hide_border=true"/>|
 |---|---|
