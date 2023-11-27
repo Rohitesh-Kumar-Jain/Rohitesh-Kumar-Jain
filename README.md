@@ -8,8 +8,6 @@
 </p>
 
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/rohitesh-jain-490b2b188/)
-[<img alt="Gmail" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" width="30px">](mailto:thekumarjain@gmail.com)
 <!-- [<img align="right" alt="Leetcode" width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/leetcode.svg" />](https://leetcode.com/rohitesh20/) -->
 <!-- [<img align="right" alt="HackerRank" width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/hackerrank.svg" />](https://www.hackerrank.com/Rohitesh_Jain) -->
 
