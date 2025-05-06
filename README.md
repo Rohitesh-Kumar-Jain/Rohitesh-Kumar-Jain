@@ -7,6 +7,15 @@
 	<img src="https://img.shields.io/github/stars/ROHITESH-KUMAR-JAIN?label=Stars" alt="Total Stars">
 </p>
 
+---
+
+### 📊 GitHub Stats
+
+|<img src="https://github-readme-stats.vercel.app/api?username=ROHITESH-KUMAR-JAIN&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITESH-KUMAR-JAIN&layout=compact&theme=tokyonight&hide=html,css,makefile&hide_border=true" height="200%"/>|
+|---|---|
+
+---
+
 
 <!-- [<img align="right" alt="Leetcode" width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/leetcode.svg" />](https://leetcode.com/rohitesh20/) -->
 <!-- [<img align="right" alt="HackerRank" width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/hackerrank.svg" />](https://www.hackerrank.com/Rohitesh_Jain) -->
@@ -204,9 +213,6 @@
 	
 
 </p> -->
-
-|<img src="https://github-readme-stats.vercel.app/api?username=ROHITESH-KUMAR-JAIN&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHITESH-KUMAR-JAIN&theme=dark&hide_border=true"/>|
-|---|---|
 
 <!-- contribution graph -->
 <!--img src="https://activity-graph.herokuapp.com/graph?username=ROHITESH-KUMAR-JAIN&theme=github" /-->
