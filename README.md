@@ -217,6 +217,7 @@
 <!-- contribution graph -->
 <!--img src="https://activity-graph.herokuapp.com/graph?username=ROHITESH-KUMAR-JAIN&theme=github" /-->
 
+A system is scalable in the range where the cost of adding incremental work is approximately constant ~ Marc Brooker
 
 📫 Connect with me on <a href="https://www.linkedin.com/in/rohitesh-jain-490b2b188//">Linkedin</a><br>
 <!-- <a href="https://secure.plum.io/en/p/qlqimBjXLGK-YWdbX-XG0A">Plum Profile</a> 😅 -->
