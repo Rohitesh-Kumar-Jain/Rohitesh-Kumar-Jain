@@ -10,7 +10,7 @@
 
 ## 📈 Open-Source Contributions (2020 - 2022)
 
-A snapshot of my long-term open-source consistency and daily engineering discipline across years.
+Post 2022, my primary commit graph moved to PayPal’s production systems : )
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c5e20f6c-ca65-4d7b-8dba-f243dca0526f" width="85%" alt="GitHub Contributions Year 1"/>
