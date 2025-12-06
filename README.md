@@ -26,8 +26,15 @@ A snapshot of my long-term open-source consistency and daily engineering discipl
 
 ### 📊 GitHub Stats
 
-|<img src="https://github-readme-stats.vercel.app/api?username=ROHITESH-KUMAR-JAIN&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITESH-KUMAR-JAIN&layout=compact&theme=tokyonight&hide=html,css,makefile&hide_border=true" height="200%"/>|
-|---|---|
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROHITESH-KUMAR-JAIN&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ROHITESH-KUMAR-JAIN&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ROHITESH-KUMAR-JAIN&theme=default" />
+</p>
 
 ---
 
