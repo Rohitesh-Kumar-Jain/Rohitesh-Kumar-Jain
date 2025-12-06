@@ -7,7 +7,12 @@
 	<img src="https://img.shields.io/github/stars/ROHITESH-KUMAR-JAIN?label=Stars" alt="Total Stars">
 </p>
 
----
+<img width="769" height="257" alt="Screenshot 2025-12-06 at 2 17 05 PM" src="https://github.com/user-attachments/assets/c5e20f6c-ca65-4d7b-8dba-f243dca0526f" />
+
+<img width="771" height="252" alt="Screenshot 2025-12-06 at 2 16 48 PM" src="https://github.com/user-attachments/assets/f48fe015-298d-4cb2-a613-a362f4d63232" />
+
+<img width="768" height="249" alt="Screenshot 2025-12-06 at 2 16 19 PM" src="https://github.com/user-attachments/assets/0435d172-5824-42cc-9b0e-4589d49c24f8" />
+
 
 ### 📊 GitHub Stats
 
