@@ -7,12 +7,22 @@
 	<img src="https://img.shields.io/github/stars/ROHITESH-KUMAR-JAIN?label=Stars" alt="Total Stars">
 </p>
 
-<img width="769" height="257" alt="Screenshot 2025-12-06 at 2 17 05 PM" src="https://github.com/user-attachments/assets/c5e20f6c-ca65-4d7b-8dba-f243dca0526f" />
 
-<img width="771" height="252" alt="Screenshot 2025-12-06 at 2 16 48 PM" src="https://github.com/user-attachments/assets/f48fe015-298d-4cb2-a613-a362f4d63232" />
+## 📈 Open-Source Contributions (2020 - 2022)
 
-<img width="768" height="249" alt="Screenshot 2025-12-06 at 2 16 19 PM" src="https://github.com/user-attachments/assets/0435d172-5824-42cc-9b0e-4589d49c24f8" />
+A snapshot of my long-term open-source consistency and daily engineering discipline across years.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c5e20f6c-ca65-4d7b-8dba-f243dca0526f" width="85%" alt="GitHub Contributions Year 1"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f48fe015-298d-4cb2-a613-a362f4d63232" width="85%" alt="GitHub Contributions Year 2"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0435d172-5824-42cc-9b0e-4589d49c24f8" width="85%" alt="GitHub Contributions Year 3"/>
+</p>
 
 ### 📊 GitHub Stats
 
